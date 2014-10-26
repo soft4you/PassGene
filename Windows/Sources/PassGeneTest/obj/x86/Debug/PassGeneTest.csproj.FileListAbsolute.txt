@@ -1,0 +1,8 @@
+C:\MyProjects\PassGeneTest\PassGeneTest\PassGeneTest\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\MyProjects\PassGeneTest\PassGeneTest\PassGeneTest\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\MyProjects\PassGeneTest\PassGeneTest\PassGeneTest\obj\x86\Debug\PassGeneTest.csproj.GenerateResource.Cache
+C:\MyProjects\PassGeneTest\PassGeneTest\PassGeneTest\bin\Debug\PassGeneTest.exe
+C:\MyProjects\PassGeneTest\PassGeneTest\PassGeneTest\bin\Debug\PassGeneTest.pdb
+C:\MyProjects\PassGeneTest\PassGeneTest\PassGeneTest\obj\x86\Debug\PassGeneTest.exe
+C:\MyProjects\PassGeneTest\PassGeneTest\PassGeneTest\obj\x86\Debug\PassGeneTest.pdb
+C:\MyProjects\PassGeneTest\PassGeneTest\PassGeneTest\obj\x86\Debug\PassGeneTest.csprojResolveAssemblyReference.cache

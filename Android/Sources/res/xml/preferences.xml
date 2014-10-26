@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <ListPreference android:entryValues="@array/password_set_values" android:entries="@array/password_set_names" android:title="@string/password_set_param_title" android:key="preference_key__symbols_set"/>
+    <EditTextPreference android:title="@string/user_symbol_set" android:key="preference_key__user_symbols_set"></EditTextPreference>>
+
+</PreferenceScreen>
